@@ -1,0 +1,1 @@
+see https://github.com/envyaims/Past-USACO-Solutions/blob/main/bronze/speeding.cpp
