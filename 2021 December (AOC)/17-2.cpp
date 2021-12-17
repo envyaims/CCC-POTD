@@ -17,7 +17,6 @@ signed main(){
 	for(int xv = -500; xv < 500; xv++){
 		for(int yv = -500; yv < 500; yv++){
 			int curx = 0, cury = 0, xvol = xv, yvol = yv;
-			int topy = 0;
 			for(int ops = 0; ops < 500; ops++){
 				curx += xvol;
 				cury += yvol;
